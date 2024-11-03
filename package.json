@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "haiyang5210"
+  },
+  "bugs": {
+    "url": "https://github.com/femvc/jsonbypath/issues"
+  },
+  "dependencies": {},
+  "description": "get/set json value by path",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/femvc/jsonbypath#readme",
+  "keywords": [
+    "json",
+    "path",
+    "parsePropertyPath",
+    "getValueByPath",
+    "findValueByPath",
+    "setValueByPath",
+    "js",
+    "node"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "haiyang5210",
+      "email": "haiyang5210@gmail.com"
+    }
+  ],
+  "name": "jsonbypath",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/femvc/jsonbypath.git"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "version": "1.0.0"
+}
